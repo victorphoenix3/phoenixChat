@@ -12,7 +12,7 @@ cryptography==2.8
 daphne==2.4.1
 Django==3.0.4
 django-filter==2.2.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 hiredis==1.0.1
 hyperlink==19.0.0
 idna==2.9
